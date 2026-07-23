@@ -1,5 +1,5 @@
-CLICK THE GREEN CODE BUTTON ;;;
-THEN SAVE BY SELECTING Download ZIP;;;
-SAVE OR DRAG THE HTML FOR EASY ACCES TO DESKTOP OR SIMPLY OPEN ON PHONE;;;
-ENJOY FIGHTING THE GAME!!!
-:]
+GTOK // SPACETIME MESS
+
+Self-contained horror game in one HTML file. No install, no account — open it in a browser and play.
+
+File: GTOK_SPACETIME_MESS.html
